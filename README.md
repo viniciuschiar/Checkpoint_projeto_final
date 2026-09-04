@@ -1,4 +1,5 @@
 # Desafio Final — Análise de Dados de Energia
+# Vinicius Sanches Chiarle RM:568846  Mateus Felipe Curtale Serafim RM:571129
 ## Sobre o projeto
 
 Este projeto foi desenvolvido como parte do Desafio Final de Análise de Dados, com o objetivo de aplicar conceitos de programação, análise de dados e visualização utilizando dados reais disponibilizados publicamente.
